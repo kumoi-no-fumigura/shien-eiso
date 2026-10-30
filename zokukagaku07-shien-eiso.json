@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/shien-eiso",
  "yomi": "しえんえいそう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "江戸後期",
+  "author": "加納諸平（1806〜1857）",
+  "desc": "紀州の国学者加納諸平の家集。四季の題詠を中心に、嘉永元年に遠江の掛川で営まれた父の年忌の歌会を思って詠んだ歌なども収める。"
+ },
  "editions": [
   {
    "pid": "993385",
